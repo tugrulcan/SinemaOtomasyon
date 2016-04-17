@@ -1,0 +1,13 @@
+Satilan;
+Ogrenci bileti sayisi: 0
+Tam bilet sayisi:0
+
+Toplam hasilat: 0 tlSatilan;
+Ogrenci bileti sayisi: 0
+Tam bilet sayisi:0
+
+Toplam hasilat: 0 tlSatilan;
+Ogrenci bileti sayisi: 0
+Tam bilet sayisi:0
+
+Toplam hasilat: 0 tl
