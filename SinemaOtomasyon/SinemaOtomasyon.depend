@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460855403 source:c:\users\tuðrul can\documents\github\sinemaotomasyon\sinemaotomasyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
